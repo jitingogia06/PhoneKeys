@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Phone>
+  <key number="0" text =" " />
+  <key number="1" text ="" />
+  <key number="2" text ="abc" />
+  <key number="3" text ="def" />
+  <key number="4" text ="ghi" />
+  <key number="5" text ="jkl" />
+  <key number="6" text ="mno" />
+  <key number="7" text ="pqrs" />
+  <key number="8" text ="tuv" />
+  <key number="9" text ="wxyz" />
+  <key number="*" text ="" />
+  <key number="#" text ="" />
+</Phone >
